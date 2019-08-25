@@ -6,7 +6,7 @@ public class DataTypes{
 
     public static void main(String []args){
         int i = 12;
-        double d = 4.0d;
+        double d = 4.0;
         String s = "HackerRank ";
     
         Scanner sc = new Scanner(System.in);
