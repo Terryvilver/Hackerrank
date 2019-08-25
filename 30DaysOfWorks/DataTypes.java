@@ -1,5 +1,6 @@
 //https://www.hackerrank.com/challenges/30-data-types/problem
 
+
 import java.util.Scanner;
 
 public class DataTypes{
@@ -20,7 +21,7 @@ public class DataTypes{
         System.out.print("\n");
 
         System.out.println( i + entier);
-        System.out.println( d+ flottant);
+        System.out.println( d + flottant);
         System.out.print( s + texte);
 
     }
