@@ -23,7 +23,7 @@ public class Operators{
         besoin de la précision d'un réel.
          */
 
-         System.out.print("Le prix total du repas est de " + total );
+         System.out.print("Le prix total du repas est de " + total + "$.");
 
     }
     public static void main(String []args){
